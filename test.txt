@@ -1,0 +1,10 @@
+An introduction to markdown: http://daringfireball.net/projects/markdown/
+
+R markdown: http://www.rstudio.com/ide/docs/authoring/using_markdown
+
+================
+The primary location for obtaining R packages is CRAN
+
+For biological applications, many packages are available from the Bioconductor Project
+
+datasciencecoursera
